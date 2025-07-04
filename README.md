@@ -1,6 +1,6 @@
 ## Hi!
 
-This is a collection of projects and exploratons that help me along the road to becoming a polymath. Many of the repositories are for work and marked private but occastionally something I learn there will leak out into a public repository in unpredictable and entertaining ways. :nerd_face:
+This is a collection of projects and exploratons where I'm fiddling around to learn new technologies. Many of the repositories are for work and marked private but occastionally something I learn there will leak out into a public repository in unpredictable and entertaining ways. :nerd_face:
 
 ### Current tools of choice
 
